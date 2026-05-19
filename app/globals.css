@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.bauhaus{
+/* font-family: var(--font-bauhaus); */
+font-family: var(--font-generalsans);
+}
+
+.generalsans{
+font-family: var(--font-generalsans);
+}
+
+p{
+  font-family: var(--font-generalsans);
+}
